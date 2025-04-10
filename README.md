@@ -4,47 +4,6 @@ The journey to return the light to the world.
 **Project description**
 The Nightfall Adventure is a video game developed as part of the Introduction to Programming class. It is intended to be both fun and challenging for the user. I have implemented everything I have learned in the class and a little extra to make it more visually appealing, such as the rotating collectables. That was a challenge, but I was able to complete what I had in mind.
 
-**Table of content**
-Global variables............2-63
-preload()...................65-90
-setup().....................92-97
-startGame().................99-293
-draw()......................295-381
-cameraEffect()..............383-394
-characterInteractions().....396-446
-enemyInteractions().........448-462
-titleScreen()...............464-487
-titleScreenSound()..........489-494
-drawGround()................496-510
-drawMoon()..................512-520
-drawStars().................522-537
-drawMountains().............539-579
-drawClouds()................581-606
-drawRock()..................608-633
-drawTrees().................635-670
-createPlatforms()...........672-704
-drawCollectable()...........706-775
-drawCanyon()................777-787
-drawFlagpole()..............789-835
-drawTreasureChest().........837-873
-Sing()......................875-904
-drawJumpingLeft()...........906-971
-drawJumpingRight()..........973-1043
-drawWalkigLeft()............1045-1107
-drawWalkingRight()..........1109-1175
-drawJupingForwards()........1177-1282
-drawFrontFacing()...........1284-1374
-drawFightingRight().........1376-1445
-drawFightingLeft()..........1446-1511
-Enemy().....................1513-1696
-checkCollectable()..........1698-1713
-checkCanyon()...............1715-1723
-checkFlagpole().............1725-1742
-checkPlayerDie()............1744-1763
-huDisplay().................1765-1811
-keyPressed()................1813-1843
-keyReleased()...............1845-1858
-
 **Controls**
 `a` Moves to the left
 `d` Moves to the right
