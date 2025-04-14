@@ -16,7 +16,8 @@ The Nightfall Adventure is a video game developed as part of the Introduction to
 `Arrow right` + `d` Strike to the right
 
 
-**References**
+**References:**
+
  **Sound Effects**
 -Sound effect: jump.mp3
 -Author: Bastianhallo (Freesound)
