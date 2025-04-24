@@ -95,6 +95,7 @@ function setup() {
 	startGame();
 }
 
+<<<<<<< HEAD
 function startGame() {
 	// Variables Initialization   
 	gameCharY = height - 48;      
@@ -291,6 +292,8 @@ function startGame() {
 	titleScreenSound();
 }
 
+=======
+>>>>>>> master
 function draw() {   
 	// Follow the character while moving
 	cameraEffect();
@@ -378,6 +381,7 @@ function draw() {
 	// Title screen 
 	titleScreen();
 }
+<<<<<<< HEAD
 
 function cameraEffect() {
 	if(isRight){
@@ -1809,6 +1813,9 @@ function huDisplay() {
 	text('x '+ lives, width - 120 + cameraX, 21); // Display the X
 }
 
+=======
+ 
+>>>>>>> master
 function keyPressed() {   
 
 	// Controls the animation of the character when keys are pressed.
@@ -1855,3 +1862,51 @@ function keyReleased() {
 		fightingLeft = false;
 	} 
 }
+<<<<<<< HEAD
+=======
+
+/*
+
+**References**
+
+-p5.js references (2024). available at https://p5js.org/reference/
+-Code Spell Checker Visual Studio Extension (2016). From streetsidesoftware.com
+
+ **Sound Effects**
+ 
+-Sound effect: jump.mp3
+-Author: Bastianhallo (Freesound)
+-Source: Sound effects by www.pixabay.com
+-License: Free for use.
+-Date: August 4, 2021
+
+-Sound effect: coinSound.mp3
+-Author: Bradwesson (Freesound)
+-Source: Sound effects by www.pixabay.com
+-License: Free for use.
+-Date: August 4, 2021
+
+-Sound effect: easterEggSound.mp3
+-Author: Wagna (Freesound)
+-Source: Sound effects by www.pixabay.com
+-License: Free for use.
+-Date: August 2, 2021
+
+-Sound effect: welcomeSong.wav, backgroundSound.wav", 
+			   Orc.mp3 (My dog), fightingSound.wav, 
+			   gameOverSound.wav, victorySound.wav
+-Author: Martin Jonathan Scott & Gandalf (My dog)
+-Source: Recorded with GarageBand
+-License: N/A
+-Date: February, 2025
+
+**Avoid the sound to play every frame.**
+	if(sound.isPlaying() = false) {
+			sound.play();	
+		}
+-Title: Lesson 3.4 - Adding Sound to p5.js
+-Reference: Benjamin Siegel 
+-Source: https://www.youtube.com/watch?v=MDX5VaMOzZg
+-Date: Nov 15, 2021
+*/
+>>>>>>> master

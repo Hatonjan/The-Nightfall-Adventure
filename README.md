@@ -16,7 +16,23 @@ The Nightfall Adventure is a video game developed as part of the Introduction to
 `Arrow right` + `d` Strike to the right
 
 
+<<<<<<< HEAD
 **References:**
+=======
+**References**
+-p5.js references (2024). available at https://p5js.org/reference/
+-Code Spell Checker Visual Studio Extension (2016). From streetsidesoftware.com
+
+** Microsoft Copilot AI **
+-I use Microsoft Copilot AI to supplement my learning process while working on my game project, verifying every 
+ piece of information independently. Not a single line of this code was copied and pasted from any AI model.
+ *Examples:
+-I'm working with javascript and the p5.js library and I have this error in the console. "Uncaught ReferenceError: X is not defined"
+ what can I do to correct the error?
+-Is this the correct syntax for an if statement?
+-I'm working with JavaScript and the p5.js library in my video game project, and I make my collectable rotate 
+ but rotate too fast. How can I make it rotate slower?
+>>>>>>> master
 
  **Sound Effects**
 -Sound effect: jump.mp3
@@ -38,9 +54,15 @@ The Nightfall Adventure is a video game developed as part of the Introduction to
 -Date: August 2, 2021
 
 -Sound effect: welcomeSong.wav, backgroundSound.wav", 
+<<<<<<< HEAD
 			   Orc.mp3 (My dog), fightingSound.wav, 
 			   gameOverSound.wav, victorySound.wav
 -Author: Martin Jonathan Scott & Gandalf (My dog)
+=======
+			   Orc.mp3, fightingSound.wav, 
+			   gameOverSound.wav, victorySound.wav
+-Author: Martin Jonathan Scott & Gandalf (My dog "Orc.mp3")
+>>>>>>> master
 -Source: Recorded with GarageBand
 -License: N/A
 -Date: February, 2025
